@@ -1,0 +1,3 @@
+class VM(object):
+    SYSTEM_NAME = 'REMOVE BACKGROUND'
+    SYSTEM_VERSION = '1.0.0'
